@@ -103,6 +103,7 @@ url-vault/
   - Primary: Blue (#3B82F6)
   - Success: Green (#22C55E)
   - Danger: Red (#EF4444)
+
 - **Typography**: Inter font family with system fallbacks
 
 ## 🎨 Component Architecture
@@ -136,5 +137,6 @@ Individual URL box featuring:
 MIT
 
 ---
+<img width="370" height="289" alt="Screenshot 2025-11-04 at 20 46 28" src="https://github.com/user-attachments/assets/972cda65-e11e-459d-ad4d-0821ac1495c2" />
 
 Made with ❤️ for productivity
