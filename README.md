@@ -1,6 +1,7 @@
 # 🔗 URL Vault
 
 A beautiful (debatable), minimal Chrome extension to store and manage your favorite URLs in key-value pairs.
+<img width="1920" height="852" alt="Screenshot 2025-11-05 at 19 12 28" src="https://github.com/user-attachments/assets/8539d97f-ce6f-42b4-b5ad-b37afc479eee" />
 
 ## ✨ Features
 
